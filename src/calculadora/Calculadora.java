@@ -26,11 +26,7 @@ public class Calculadora {
         this.modelo=modelo;
         
     }
-     // Constructor sobrecargado
-    public Calculadora(String marca, String modelo ){
-        this.marca=marca;
-        this.modelo=modelo;
-    }
+    
     // Constructor sobrecargado
     public Calculadora(){
         
